@@ -13,6 +13,7 @@ Check out this repository in the Projects directory:
 `git clone git@github.com:deanc/macsetup.git`
 
 Configure the installer then run it:
+
     chmod +x installer.sh
     ./installer.sh
 
