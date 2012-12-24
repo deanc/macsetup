@@ -17,3 +17,9 @@ Configure the installer then run it:
     chmod +x installer.sh
     ./installer.sh
 
+Todo
+---
+
+1. Make the installer install GIT from source
+2. See if we can install iTerm2 automatically too
+3. Figure out how to copy the vimconfig
